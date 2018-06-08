@@ -1,5 +1,12 @@
 #
+# R Script to answer the question:
+#   Have total emissions from PM2.5 decreased in the United States from 1999 to 2008?
+# 
+# Author: Hemasundar
+# 8-June-2018
 #
+# Uses base plotting system
+# Plot to show total PM2.5 emission from all sources by years - 1999, 2002, 2005, and 2008
 
 library(data.table)
 
